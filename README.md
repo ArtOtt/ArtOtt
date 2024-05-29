@@ -1,4 +1,4 @@
-## Hi, I'm Arthur👋
+## Hi, I'm Arthur
 
 
 Welcome to my profile, find out more about me :D
