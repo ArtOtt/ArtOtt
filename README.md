@@ -1,27 +1,23 @@
 ## Hi, I'm Arthur
 
-
-Welcome to my profile, find out more about me :D
-
+ <br>
 
 
+<p>Welcome to my profile, find out more about me :D</p> <br>
+<b>👤 About</b>
+ <br>
   <br>
+<p>I’m a junior front-end developer from Cologne, and I’m nearing the completion of my coding-boot-camp at Coding Bootcamp Europe. 
   
-  
-  
- <b>👤 About
-    <p>
+  I’m currently working on my final project—a recipe-app—which is almost finished. 
+  Feel free to check it out! > <a href="https://github.com/coding-bootcamps-eu/project-tz-2024-05-recipes" target="_blank">Recipe-App</a> 
+ <br>
+  <br/> I have a passion for coding and am eager to secure a full-time position as a web developer. I’m excited to deepen my knowledge and continue growing my skills in this field.</p> 
  
-
-
-I’m a junior front-end developer from Cologne, and I’m nearing the completion of my coding-boot-camp at Coding Bootcamp Europe. I’m currently working on my final project—a recipe-app—which is almost finished. Feel free to check it out! > <a href="https://github.com/coding-bootcamps-eu/project-tz-2024-05-recipes" target="_blank">Recipe-App</a> <br/>
-I have a passion for coding and am eager to secure a full-time position as a web developer. I’m excited to deepen my knowledge and continue growing my skills in this field.  
-</p>
-
-<br>
-
+ 
 If I am not working or coding, I am probably:
-
+ <br>
+ 
 - reading Vedic literature or Sherlock Holmes
 - hiking
 - listening to classical music
@@ -29,16 +25,15 @@ If I am not working or coding, I am probably:
 - doing bodyweight training
 - playing the harmonium
 - fun fact: Could discuss the concepts of Maya (illusion) and Brahman (the Absolute) for hours.
-
   
   
   <br>
   
-  <br>
   
   
 <summary><b>🛠️ Tech Stack</b></summary>
-<p>
+ <br>
+
 
 | **Category** | **Technologies** |
 | - | - |
@@ -50,7 +45,7 @@ If I am not working or coding, I am probably:
 **Processes** | [![Agile](https://img.shields.io/static/v1?label=&message=Agile&color=0052CC&logo=jira&logoColor=FFFFFF)](https://www.atlassian.com/agile) [![Scrum](https://img.shields.io/static/v1?label=&message=Scrum&color=0052CC&logo=jira&logoColor=FFFFFF)](https://www.scrum.org/) |
 
 
-</p>
+
 
  
 
