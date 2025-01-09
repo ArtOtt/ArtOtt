@@ -16,16 +16,13 @@
  
  
 If I am not working or coding, I am probably:
- <br>
- 
-- reading Vedic literature or Sherlock Holmes
-- hiking
+
+- reading Vedic literature or Sherlock Holmes- hiking
 - listening to classical music
 - meditating
 - doing bodyweight training
 - playing the harmonium
 - fun fact: Could discuss the concepts of Maya (illusion) and Brahman (the Absolute) for hours.
-  
   
   <br>
   
