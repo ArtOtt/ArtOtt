@@ -23,7 +23,7 @@ If I am not working or coding, I am probably:
 - meditating
 - doing bodyweight training
 - playing the harmonium
-- fun fact: Could discuss the concepts of Maya (illusion) and Brahman (the Absolute) for hours.
+- fun fact: Considers debugging karma as the key to transcend illusion.
   
   <br>
   
