@@ -17,7 +17,8 @@
  
 If I am not working or coding, I am probably:
 
-- reading Vedic literature or Sherlock Holmes- hiking
+- reading Vedic literature or Sherlock Holmes
+- hiking
 - listening to classical music
 - meditating
 - doing bodyweight training
