@@ -22,7 +22,7 @@ If I am not working or coding, I am probably:
 - meditating
 - doing bodyweight training
 - playing the harmonium
-- fun fact: Considers debugging karma as the key to transcend illusion.
+
   
   <br>
   
