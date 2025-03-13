@@ -10,7 +10,7 @@
 <p>I’m a junior front-end developer from Cologne, and I’m nearing the completion of my coding-boot-camp at Coding Bootcamp Europe. 
   
   I’m currently working on my final project—a recipe-app—which is almost finished. 
-  Feel free to check it out! > <a href="https://github.com/coding-bootcamps-eu/project-tz-2024-05-recipes" target="_blank">Recipes-App</a> 
+  Feel free to check it out! > <a href="https://github.com/ArtOtt/my-recipes-app" target="_blank">Recipes-App</a> 
  <br>
   <br/> I have a passion for coding and am eager to secure a full-time position as a web developer. I’m excited to deepen my knowledge and continue growing my skills in this field.</p> 
  
